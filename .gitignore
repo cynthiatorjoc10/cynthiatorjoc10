@@ -1,0 +1,16 @@
+# secrete — nu ajung niciodată pe GitHub
+.env
+.env.*
+!.env.example
+
+# fișiere de sistem macOS
+.DS_Store
+
+# loguri (pot conține chei sau date)
+*.log
+npm-debug.log*
+
+# dependențe și build-uri
+node_modules/
+dist/
+.cache/
