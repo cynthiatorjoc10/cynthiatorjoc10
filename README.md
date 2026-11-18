@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/marketing-×_AI-ff5fa8?style=flat-square&labelColor=1e0a18" alt="marketing × AI">
   <img src="https://img.shields.io/badge/status-building_in_pink-ffb3d9?style=flat-square&labelColor=1e0a18" alt="status: building in pink">
   <img src="https://img.shields.io/badge/git-day_one_💗-ff2d8a?style=flat-square&labelColor=1e0a18" alt="git: day one">
+  <a href="https://www.linkedin.com/in/torjoc-cynthia-giorgiana-6a692942a/"><img src="https://img.shields.io/badge/LinkedIn-say_hi-ff5fa8?style=flat-square&logo=linkedin&logoColor=ffb3d9&labelColor=1e0a18" alt="LinkedIn"></a>
 </p>
 
 ```text
