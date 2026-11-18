@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/git-day_one_💗-ff2d8a?style=flat-square&labelColor=1e0a18" alt="git: day one">
 </p>
 
-```zsh
+```text
 ❯ cat about.txt
   hi, I'm Cynthia — the girl in the room who reads the data and picks the font.
   not a programmer (yet). I build anyway, with Claude Code & Cursor.
