@@ -28,13 +28,6 @@
 | **mockups** | single-file HTML prototypes for pitches, in the client's brand |
 | **AI workflows** | skills & prompts that turn repetitive work into one-liners |
 
-### 🌷 featured work
-
-| | |
-|---|---|
-| **[petala-mockup-demo](https://github.com/cynthiatorjoc10/petala-mockup-demo)** | a pre-sale landing page for a fictional Bucharest florist · [see it live →](https://cynthiatorjoc10.github.io/petala-mockup-demo/) |
-| **[claude-code-skills](https://github.com/cynthiatorjoc10/claude-code-skills)** | my Claude Code skills for market research, mockups, storyboards and content |
-
 ### 💅 toolkit
 
 <p>
